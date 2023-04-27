@@ -2,3 +2,10 @@ html {
     font-size: 20px;
 }
 
+.index-body {
+    background-image: url('../images/index-background.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
